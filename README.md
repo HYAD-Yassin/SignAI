@@ -1,2 +1,2 @@
 # SignAI
-Web Application with an AI Model for Signs Translation to Letters.
+Web Application with an AI Model (Yolov8) for Signs Translation to Letters.
