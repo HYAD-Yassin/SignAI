@@ -1,2 +1,2 @@
 # SignAI
-AI Model for Signs Translation to words
+Web Application with an AI Model for Signs Translation to Letters.
